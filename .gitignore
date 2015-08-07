@@ -1,0 +1,23 @@
+# Project
+dist/
+deploy-*/
+# Dependencies
+node_modules/
+bower_components/
+
+# Temp files
+.sass-cache/
+.tmp/
+*.log
+*.cache
+
+# System cache
+Thumbs.db
+.DS_Store
+
+# IntelliJ and WebStorm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace

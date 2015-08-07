@@ -1,0 +1,28 @@
+.appt-widget-header {
+    background: rgba(187, 187, 187, 0.4);
+    width: 648px;
+    height: 44px;
+    opacity: 80%;
+    border-radius: 4px;
+    display: table;
+    overflow: hidden;
+}
+
+.header-level1 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+@font-face {
+    font-family: TheSans;
+    src: url('TheSans Plain.ttf');
+    font-weight: bold;
+}
+
+.header-text {
+    color: #001155;
+    text-align: right;
+    font-size: 16px;
+    font-family: 'TheSans';
+    margin-left: 39px;
+}
